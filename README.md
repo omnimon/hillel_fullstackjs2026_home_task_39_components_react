@@ -48,7 +48,7 @@ npm run build
 
 ## Demo
 
-Live demo: `<vercel-url>`
+Live demo: `https://hillel-fullstackjs2026-home-task-39-one.vercel.app/`
 
 ## Technologies
 
